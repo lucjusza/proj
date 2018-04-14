@@ -1,2 +1,2 @@
 # proj
-Projekt z linuxa
+Projekt z linuxa wirtualnego
